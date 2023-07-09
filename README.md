@@ -1,4 +1,4 @@
-# Nueral Methods for CLIR Tutorial at SIGIR 2023
+# Neural Methods for CLIR Tutorial at SIGIR 2023
 
 (TBD)
 
